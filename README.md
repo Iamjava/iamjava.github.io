@@ -1,4 +1,4 @@
-# Corgi Documents:🦊
+# My posts:🦊
 
 ### - [Farbgenetik [german]](./Farbgenetik) ❤️
 
