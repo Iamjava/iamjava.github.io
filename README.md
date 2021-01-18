@@ -1,3 +1,3 @@
 # Corgi Documents:🦊
 
-### - [Farbgenetik[german]](./Farbgenetik) ❤️
+### - [Farbgenetik [german]](./Farbgenetik) ❤️
