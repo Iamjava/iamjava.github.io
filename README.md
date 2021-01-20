@@ -1,5 +1,5 @@
 # My posts:🦊
 
-### - [Farbgenetik [german]](./Farbgenetik) ❤️
+### - [Die Farbgenetik des Cardigan [german]](./Farbgenetik) ❤️
 
 <style> .site-footer-credits{ visibility: hidden;} </style>
